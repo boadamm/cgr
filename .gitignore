@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+
+# Outputs - models and other generated files
+outputs/
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# OS-specific files
+.DS_Store
+*:Zone.Identifier
+
+# IDE-specific files
+.vscode/
+.idea/ 
